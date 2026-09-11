@@ -60,7 +60,7 @@ AI may make manual code production cheaper and faster, but that does not make pr
 - Historical comparison: Use the 1965 computer-art history only as a limited analogy, not as proof that AI will be harmless. Georg Nees and Frieder Nake were among the early pioneers of publicly exhibited algorithmic art; the arrival of computers changed artistic practice and authorship rather than simply ending art (Digital Art Museum, 2022).
 - Qualification: This time may still be different because generative AI operates at a much broader scale. That uncertainty is precisely why understanding the medium matters: it gives me a basis for judgement rather than dependence on opaque output.
 
-###6. Conclusion — I do not need to beat the machine
+### 6. Conclusion — I do not need to beat the machine
 
 Target length: 80–100 words
 
@@ -71,7 +71,7 @@ Final position: I am not learning programming because I expect to write code fas
 Closing idea: If AI changes programming beyond recognition, the course is still valuable to me insofar as it develops the judgement required to work with — and not merely underneath — increasingly automated systems.
 
 
-###Why Are We Here?
+### Why Are We Here?
 
 When I first learned to design, I mostly thought about form, layout, visual hierarchy, and user experience. However, while developing interactive products, I began to realise that an experience is not defined only by what a product looks like. It is also defined by how the product responds to a person over time. A simple interaction may depend on a sequence of conditions, states, timing, and feedback that are invisible to the user. This makes me question why I should still learn programming when, in 2026, AI can already generate working code from a sentence. My answer is not that I need to write code faster than AI. I need to learn programming so that I can specify, evaluate, and shape the behaviours of the systems I design.
 
