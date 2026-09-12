@@ -13,3 +13,17 @@ This connects to Don Ihde’s idea of mediated perception. Technologies are not 
 Still, the uncomfortable possibility remains: perhaps much of what I learn in this course will become obsolete during my career. Programming languages, frameworks, and even debugging techniques may increasingly be automated. I do not think this possibility should be dismissed. In fact, it makes me less interested in treating syntax as the main reason to learn programming. The history of computer art offers a useful comparison. In 1965, Georg Nees and Frieder Nake were already creating artworks through computer programs, transferring part of the making process to machines. Their experiments did not simply eliminate artistic practice; they introduced a different relationship between human decisions, algorithms, and machine production (Digital Art Museum, 2022). AI may be a much larger transformation, so history cannot prove that the future will be the same. But it suggests that when production becomes automated, questions of intention, judgement, and authorship do not disappear.
 
 So why are we here? I am not learning programming because I expect to compete with AI at writing code. I am here to learn how computational systems behave, how to describe what I actually want them to do, and how to recognise when their output is wrong, inadequate, or unexpectedly valuable. If AI eventually writes most of the code, that may make programming as a manual craft less important. But it makes specification, evaluation, iteration, and judgement more important to me as a designer. I do not need to beat the machine at writing code. I need to understand enough about the medium to decide what the machine should make possible.
+
+## References
+
+Beattie, D. (2019). The Art of Code [Conference presentation].
+
+Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., Grenning, J., Highsmith, J., Hunt, A., Jeffries, R., Kern, J., Marick, R. C., Martin, R. C., Mellor, S., Schwaber, M., Sutherland, J., & Thomas, D. (2001). Principles behind the Agile Manifesto.
+
+Digital Art Museum. (2022). Georg Nees: A conversation between Wolf Lieser and Frieder Nake.
+
+Introna, L. D. (2017). Phenomenological approaches to ethics and information technology. Stanford Encyclopedia of Philosophy.
+
+Lovelace, A. A. (1843). Note G. In L. F. Menabrea, Sketch of the Analytical Engine invented by Charles Babbage.
+
+Turing, A. M. (1936). On computable numbers, with an application to the Entscheidungsproblem.
