@@ -16,14 +16,14 @@ So why are we here? I am not learning programming because I expect to compete wi
 
 ## References
 
-Beattie, D. (2019). The Art of Code [Conference presentation].
+Beattie, D. (2019). _The art of code [Video]_. NDC(London) Conference. [https://www.youtube.com/watch?v=6avJHaC3C2U].
 
-Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., Grenning, J., Highsmith, J., Hunt, A., Jeffries, R., Kern, J., Marick, R. C., Martin, R. C., Mellor, S., Schwaber, M., Sutherland, J., & Thomas, D. (2001). Principles behind the Agile Manifesto.
+Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., Grenning, J., Highsmith, J., Hunt, A., Jeffries, R., Kern, J., Marick, R. C., Martin, R. C., Mellor, S., Schwaber, M., Sutherland, J., & Thomas, D. (2001)._Principles behind the Agile Manifesto_. Agile Alliance. https://www.agilealliance.org/the-basics/principles-behind-the-agile-manifesto/
 
-Digital Art Museum. (2022). Georg Nees: A conversation between Wolf Lieser and Frieder Nake.
+Digital Art Museum. (2022). _Georg Nees: A conversation between Wolf Lieser and Frieder Nake_. https://dam.org/museum/nees-talk-nake/
 
-Introna, L. D. (2017). Phenomenological approaches to ethics and information technology. Stanford Encyclopedia of Philosophy.
+Introna, L. D. (2017). Phenomenological approaches to ethics and information technology. _Stanford Encyclopedia of Philosophy_. https://plato.stanford.edu/entries/ethics-information-technology/
 
-Lovelace, A. A. (1843). Note G. In L. F. Menabrea, Sketch of the Analytical Engine invented by Charles Babbage.
+Lovelace, A. A. (1843). Note G. In L. F. Menabrea, _Sketch of the Analytical Engine invented by Charles Babbage_. https://www.fourmilab.ch/babbage/sketch.html
 
-Turing, A. M. (1936). On computable numbers, with an application to the Entscheidungsproblem.
+Turing, A. M. (1936). On computable numbers, with an application to the Entscheidungsproblem. _Proceedings of the London Mathematical Society, s2-42_(1), 230–265. https://doi.org/10.1112/plms/s2-42.1.230
